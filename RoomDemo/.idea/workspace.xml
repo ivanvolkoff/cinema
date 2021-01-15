@@ -7,22 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c13f3c3-bb14-40d1-a8f1-050ba87a1518" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContactsBook/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[726cdc860404]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -64,9 +55,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="RoomDemo.app" />
@@ -121,9 +110,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -144,6 +131,10 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="361" y="1282" width="1188" height="662" key="#PSD/0.1080.1920.1080/1920.25.1920.1080/0.0.1920.1057@0.1080.1920.1080" timestamp="1610439539541" />
+    <state x="414" y="1260" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610465635132">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="414" y="1260" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/1920.25.1920.1080/0.0.1920.1057@0.1080.1920.1080" timestamp="1610465635132" />
     <state x="667" y="1361" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1610441285304">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
