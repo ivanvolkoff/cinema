@@ -2,7 +2,6 @@ package com.example.cinemaworld.data.repository.artist
 
 import android.util.Log
 import com.example.cinemaworld.data.model.artist.Artist
-import com.example.cinemaworld.data.model.movie.Movie
 import com.example.cinemaworld.data.repository.artist.datasource.ArtistCacheDataSource
 import com.example.cinemaworld.data.repository.artist.datasource.ArtistLocalDataSource
 import com.example.cinemaworld.data.repository.artist.datasource.ArtistRemoteDataSource

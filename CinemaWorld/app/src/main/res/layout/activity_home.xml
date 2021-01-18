@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:context=".presentation.HomeActivity">
+
+
+            <Button
+                android:id="@+id/btn_artist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/btn_rounded"
+                android:padding="15dp"
+                android:text="Movies"
+                android:textColor="@color/white"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/btn_tv_shows"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/btn_rounded"
+                android:padding="15dp"
+                android:text="Artists"
+                android:textColor="@color/white"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/btn_movie"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/btn_rounded"
+                android:padding="15dp"
+                android:text="Tv Shows"
+                android:textColor="@color/white"
+                android:textSize="50sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</layout>
